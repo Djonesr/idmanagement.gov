@@ -43,24 +43,14 @@ primary_navigation:
   - name: Home
     description: IDmanagement.gov
     url: /
-  - name: Partners
-    children:
-      - name: Vendors
-        url: /sell/
-      - name: Acquisition Professionals
-        url: /buy/
-      - name: Program Managers
-        url: /governance/
-  - name: Approved Product List
-    url: /buy#products
-
-secondary_navigation:
-  - name: Contact Us
+  - name: What It Is
+    url: /sell/
+  - name: How To Use It
+    url: /buy/
+  - name: Who It's For
+    url: /governance/
+  - name: Contact
     url: /contact-us/
-  - name: About Us
-    url: /about-us/
-  - name: Contribute
-    url: /contribute/
 
 # Search.gov configuration
 #
